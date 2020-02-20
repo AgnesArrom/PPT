@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class PPT {
 
+    //versio pedra paper tisores
+
     public static void main(String args[]) {
         System.out.println("PEDRA - PAPER - TISORES");
         Scanner teclat = new Scanner(System.in);
