@@ -4,6 +4,8 @@ import java.util.Scanner;
 
 public class PPTLS {
 
+    //versio lagarto spock
+
     public static void main(String args[]) {
         System.out.println("PEDRA - PAPER - TISORES - LLANGARDAIX - SPOCK");
         Scanner teclat = new Scanner(System.in);
